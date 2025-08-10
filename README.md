@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Madhubalan R</h1>
+<p align="center">
+  <img src="./pro_.png" alt="Madhubalan R" width="200" style="border-radius:80%">
+</p>
+
+<h1 align="center">
+  Hi there, I'm Madhubalan R <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student | Cybersecurity & Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="mailto:madhubalan009r@gmail.com"><img src="https://img.shields.io/badge/Email-madhubalan009r%40gmail.com-red?style=for-the-badge"></a>
