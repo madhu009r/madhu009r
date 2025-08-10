@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pro_.png" alt="Madhubalan R" width="200" style="border-radius:80%">
+  <img src="./pro_.png" width="200" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Madhubalan R </h1>
