@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Madhubalan R</h1>
+<h3 align="center">A Passionate Computer Science Engineering Student | Cybersecurity & Full-Stack Developer</h3>
 
-<!--
-**madhu009r/madhu009r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:madhubalan009r@gmail.com"><img src="https://img.shields.io/badge/Email-madhubalan009r%40gmail.com-red?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/madhubalan"><img src="https://img.shields.io/badge/LinkedIn-Madhubalan%20R-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/madhu009r"><img src="https://img.shields.io/badge/GitHub-madhu009r-black?style=for-the-badge&logo=github"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 **B.E. CSE – Cybersecurity** at Karpagam College of Engineering (2022–2026)  
+- 💡 Passionate about **software development**, **cybersecurity principles**, and **system design**  
+- 🎯 Focused on building **secure, scalable, and efficient solutions**  
+- 🌱 Currently learning **advanced full-stack development** & **penetration testing**  
+- 🤝 Open to collaborations on **open-source projects** and **cybersecurity tools**  
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+**Web Technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white)
+
+---
+
+### 🎓 Certifications
+- IBM – Intro to DevOps *(Coursera)*
+- Meta – Advanced React *(Coursera)*
+- Tata – Cybersecurity Job Simulation *(Forage)*
+- Ethical Hacking for Beginners
+
+---
+
+### 🌐 Languages
+- English *(Fluent)*
+- Tamil *(Native)*
+
+---
+
+### ⚡ Interests
+- 🛡 Cybersecurity Labs  
+- 🌍 Web Development Tools  
+- ♟ Chess  
+- 💻 Open Source Contributions  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhu009r&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu009r&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+
+---
+
+<h3 align="center">📫 Reach Me</h3>
+<p align="center">
+  📧 <a href="mailto:madhubalan009r@gmail.com">madhubalan009r@gmail.com</a>  
+  <br>
+  🔗 <a href="https://linkedin.com/in/madhubalan">linkedin.com/in/madhubalan</a>  
+  <br>
+  💻 <a href="https://github.com/madhu009r">github.com/madhu009r</a>  
+</p>
