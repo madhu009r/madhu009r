@@ -2,12 +2,11 @@
   <img src="./pro_.png" alt="Madhubalan R" width="200" style="border-radius:80%">
 </p>
 
-<h1 align="center">
-  Hi there, I'm Madhubalan R <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
-<h3 align="center">A Passionate Computer Science Engineering Student | Cybersecurity & Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Madhubalan R </h1>
+
+<h3 align="center">A Passionate Computer Science Engineering Student | Cybersecurity & Software Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Software+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -26,6 +25,8 @@
 - 🤝 Open to collaborations on **open-source projects** and **cybersecurity tools**  
 
 ---
+
+
 
 ### 🛠 Tech Stack
 
@@ -77,14 +78,15 @@
 ### ⚡ Interests
 - 🛡 Cybersecurity Labs  
 - 🌍 Web Development Tools  
-- ♟ Chess  
-- 💻 Open Source Contributions  
+- 💻 Open Source Contributions
+- 🏀 Basketball  
+- 🏏 Cricket  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhu009r&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu009r&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 
