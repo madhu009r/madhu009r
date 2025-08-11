@@ -85,10 +85,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu009r&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
-</p>
+
 
 ---
 
