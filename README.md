@@ -93,7 +93,7 @@
 <p align="center">
   📧 <a href="mailto:madhubalan009r@gmail.com">madhubalan009r@gmail.com</a>  
   <br>
-  🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/maria-nadeem-4994122aa/) 
+  🔗<a href="https://www.linkedin.com/in/madhubalan-r-16608426a/">LinkedIn</a>
   <br>
   💻 <a href="https://github.com/madhu009r">github.com/madhu009r</a>  
 </p>
