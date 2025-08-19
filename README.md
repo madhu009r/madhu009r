@@ -93,7 +93,11 @@
 <p align="center">
   📧 <a href="mailto:madhubalan009r@gmail.com">madhubalan009r@gmail.com</a>  
   <br>
-  🔗 <a href="https://linkedin.com/in/madhubalan">linkedin.com/in/madhubalan</a>  
+  🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/maria-nadeem-4994122aa/) 
   <br>
   💻 <a href="https://github.com/madhu009r">github.com/madhu009r</a>  
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75" />
+</div>
